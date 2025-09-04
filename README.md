@@ -2,7 +2,7 @@
 
 # 📜 Minecraft Studio Invoice Bot
 
-Bot Discord giúp **tạo hóa đơn dịch vụ** (Plugin, Map, Model, …) bằng slash command.
+Bot Discord giúp **tạo hóa đơn dịch vụ (Plugin, Map, Model, …)** bằng slash command (/hoadon).
 Hóa đơn hiển thị dưới dạng **embed đẹp mắt** và được **lưu lại trong file `invoices.yml`** để quản lý.
 
 ---
