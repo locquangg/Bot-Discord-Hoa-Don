@@ -18,9 +18,13 @@ Bot Discord giúp **tạo hóa đơn dịch vụ (Plugin, Map, Model, …)** b�
 
 🔑 Giải thích:
 
-* **DISCORD\_TOKEN** → `Token Bot` từ [Discord Developer Portal](https://discord.com/developers/applications).
-* **DISCORD\_CLIENT\_ID** → `Application ID` từ [Discord Developer Portal](https://discord.com/developers/applications).
-* **PORT** → `3000` Hosting sẽ tự cung cấp (Không khuyến nghị chỉnh sửa).
+* **DISCORD\_TOKEN**=`Token Bot` từ [Discord Developer Portal](https://discord.com/developers/applications).
+* **CLIENT\_ID**=`Application ID` từ [Discord Developer Portal](https://discord.com/developers/applications).
+* **GUILD\_ID**=`Id-Server`
+* **CURRENCY**=`VND` → Loại tiền tệ
+* **BRAND\_NAME**=`ABC Studio` → Tên dịch vụ
+* **BRAND\_COLOR**=`#00B894` → Màu của tin nhắn embed.
+* **PORT**=`3000` → Hosting sẽ tự cung cấp (Không khuyến nghị chỉnh sửa).
 
 ---
 
