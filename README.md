@@ -65,6 +65,7 @@ Giá
 
 ---
 
-👉 Vậy là bạn đã có 1 bot Discord chuyên nghiệp để quản lý hóa đơn cho **Server Minecraft Studio** rồi!
+👉 Vậy là bạn đã có 1 Bot Discord chuyên nghiệp để quản lý hóa đơn cho **Server Minecraft Studio** rồi!
+🎐 Bạn hoàn toàn có thể code thêm tính năng nếu muốn! Chúc bạn thành công.
 
 ---
