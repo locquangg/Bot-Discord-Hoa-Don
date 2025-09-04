@@ -18,9 +18,9 @@ Bot Discord giúp **tạo hóa đơn dịch vụ (Plugin, Map, Model, …)** b�
 
 🔑 Giải thích:
 
-* **DISCORD\_TOKEN** → Token Bot từ [Discord Developer Portal](https://discord.com/developers/applications).
-* **DISCORD\_CLIENT\_ID** → Application ID [Discord Developer Portal](https://discord.com/developers/applications).
-* **PORT** → Hosting sẽ tự cung cấp. Nếu chạy local thì để `3000`.
+* **DISCORD\_TOKEN** → `Token Bot` từ [Discord Developer Portal](https://discord.com/developers/applications).
+* **DISCORD\_CLIENT\_ID** → `Application ID` từ [Discord Developer Portal](https://discord.com/developers/applications).
+* **PORT** → `3000` Hosting sẽ tự cung cấp (Không khuyến nghị chỉnh sửa).
 
 ---
 
