@@ -2,34 +2,24 @@
 
 # 📜 Minecraft Studio Invoice Bot
 
-Bot Discord giúp **tạo hóa đơn dịch vụ (Plugin, Map, Model, …)** bằng slash command `/hoadon`.
-Được phát triển bởi: noob_plss `Discord`
+Bot Discord giúp **tạo hóa đơn dịch vụ (Plugin, Map, Model, …)** bằng câu lệnh `/hoadon`.
+* Được phát triển bởi - noob_plss `Discord`
 
 ---
 
 ## ✨ Tính năng
 
 * Slash command `/hoadon` để tạo hóa đơn.
-* Hóa đơn tự động lưu vào `invoices.yml` (định dạng YAML, dễ chỉnh sửa).
 * Hoạt động tốt trên các hosting Node.js (Heroku, Railway, Replit, Render, …).
-* Có web server mini để hosting không bị “ngủ”.
 
 ---
 
 ## ⚙️ Cấu hình `.env`
 
-Tạo file `.env` trong thư mục bot với nội dung:
-
-```env
-DISCORD_TOKEN=your_discord_bot_token_here
-DISCORD_CLIENT_ID=your_discord_client_id_here
-PORT=3000
-```
-
 🔑 Giải thích:
 
-* **DISCORD\_TOKEN** → Token bot từ [Discord Developer Portal](https://discord.com/developers/applications).
-* **DISCORD\_CLIENT\_ID** → Application ID (dùng để đăng ký slash commands).
+* **DISCORD\_TOKEN** → Token Bot từ [Discord Developer Portal](https://discord.com/developers/applications).
+* **DISCORD\_CLIENT\_ID** → Application ID [Discord Developer Portal](https://discord.com/developers/applications).
 * **PORT** → Hosting sẽ tự cung cấp. Nếu chạy local thì để `3000`.
 
 ---
