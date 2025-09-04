@@ -1,5 +1,3 @@
-# Bot-Discord-Hoa-Don
-
 ---
 
 # 📜 Minecraft Studio Invoice Bot
