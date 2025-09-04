@@ -1,6 +1,6 @@
 ---
 
-# 📜 Minecraft Studio Invoice Bot
+# 📜 Bot Discord Hóa Đơn
 
 Bot Discord giúp **tạo hóa đơn dịch vụ (Plugin, Map, Model, …)** bằng câu lệnh `/hoadon`.
 * Được phát triển bởi - noob_plss `Discord`
@@ -31,29 +31,36 @@ Bot Discord giúp **tạo hóa đơn dịch vụ (Plugin, Map, Model, …)** b�
 Tạo hóa đơn mới:
 
 ```
-/hoadon khachhang:Noob dichvu:"Plugin Minecraft" gia:200000
+/hoadon khachhang:Noob dichvu:Plugin Minecraft gia:200000
 ```
 
 Bot sẽ gửi embed như sau:
 
 ```
-📜 HÓA ĐƠN DỊCH VỤ
-Khách hàng: Noob
-Dịch vụ: Plugin Minecraft
-Giá tiền: 200000 VNĐ
-Ngày tạo: 04/09/2025, 23:00
+📜 HÓA ĐƠN DỊCH VỤ - ABC Studio
+
+Dịch vụ
+Plugin Minecraft
+
+Khách hàng
+Noob
+
+Giá
+200,000 VND
 ```
 
 ---
 
-## 🌐 Deploy lên hosting
+## 🌐 Cách chạy bot
 
-* **Heroku**: add project, set biến môi trường từ `.env`.
-* **Railway / Render / Replit**: upload code, chạy lệnh `npm install` → `npm start`.
-* Bot sẽ tự hoạt động 24/7.
+* Tải về và thả toàn bộ 3 file lên Hosting Node.js
+* Lưu ý - Sau khi thêm 3 file vào Hosting phải **ĐỔI TÊN FILE `.env.yml` thành `.env`**
+* Điền đầy đủ thông tin vào `.env`
+* Khởi động Hosting
+* Bot sẽ tự hoạt động 24/7
 
 ---
 
-👉 Vậy là bạn đã có 1 bot Discord chuyên nghiệp để quản lý hóa đơn cho **Minecraft Studio** rồi!
+👉 Vậy là bạn đã có 1 bot Discord chuyên nghiệp để quản lý hóa đơn cho **Server Minecraft Studio** rồi!
 
 ---
